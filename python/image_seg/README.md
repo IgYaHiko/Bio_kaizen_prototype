@@ -56,3 +56,9 @@ A machine learning system that classifies different types of waste materials int
 ## Model
 
 The trained model is saved as `predictWaste12.h5` and can be loaded using TensorFlow/Keras for further predictions or improvements.
+
+## Prediction
+
+![image](https://github.com/user-attachments/assets/c16d0c04-7eea-4224-972c-76b7467391ac)
+
+
