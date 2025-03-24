@@ -2,7 +2,6 @@
 
 A machine learning system that classifies different types of waste materials into categories. It's built on TensorFlow and leverages the VGG16 model architecture for image classification.
 
-![Sample Prediction](https://github.com/supriya811106/Garbage-Classification/assets/89856408/e85162e1-6e15-4409-8e43-9ddce1be3fb6)
 
 ## Table of Contents
 - [Features](#features)
@@ -23,12 +22,12 @@ A machine learning system that classifies different types of waste materials int
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/supriya811106/Garbage-Classification-System.git
+    git clone https://github.com/IgYaHiko/Bio_kaizen_prototype.git
     ```
 
 2. Navigate to the cloned repository:
     ```bash
-    cd Garbage-Classification-System
+    cd Bio_kaizen_prototype/python/image_seg
     ```
 
 3. Install the required dependencies:
