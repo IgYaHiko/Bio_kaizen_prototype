@@ -4,3 +4,5 @@ matplotlib
 Pillow
 h5py
 jupyterlab
+opencv
+matplotlib
