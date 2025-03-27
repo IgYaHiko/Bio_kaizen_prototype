@@ -4,5 +4,5 @@ matplotlib
 Pillow
 h5py
 jupyterlab
-opencv
-matplotlib
+term-image
+shutils
